@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Tech, スタートアップ, 時々酒
-
+Living in Tokyo, A software engineer, singuraritarian, future/tech enthusiast.
