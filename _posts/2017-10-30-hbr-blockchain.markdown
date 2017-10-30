@@ -2,7 +2,7 @@
 layout: post
 title:  "読んだ: ブロックチェーンの衝撃 / Harvard Business Review"
 date:   2017-10-30 22:22:05 +0900
-categories: jekyll update
+categories: blockchain future
 ---
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=phplab-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B073QKMRBY&linkId=34ed05b0a020e36679eb040b7f3be2b7&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
